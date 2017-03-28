@@ -1,0 +1,9 @@
+c:\users\sistemas\documents\visual studio 2015\Projects\SimuladorCredito\SimuladorCredito\bin\Debug\SimuladorCredito.exe.config
+c:\users\sistemas\documents\visual studio 2015\Projects\SimuladorCredito\SimuladorCredito\bin\Debug\SimuladorCredito.exe
+c:\users\sistemas\documents\visual studio 2015\Projects\SimuladorCredito\SimuladorCredito\bin\Debug\SimuladorCredito.pdb
+c:\users\sistemas\documents\visual studio 2015\Projects\SimuladorCredito\SimuladorCredito\obj\Debug\SimuladorCredito.Form1.resources
+c:\users\sistemas\documents\visual studio 2015\Projects\SimuladorCredito\SimuladorCredito\obj\Debug\SimuladorCredito.Properties.Resources.resources
+c:\users\sistemas\documents\visual studio 2015\Projects\SimuladorCredito\SimuladorCredito\obj\Debug\SimuladorCredito.csproj.GenerateResource.Cache
+c:\users\sistemas\documents\visual studio 2015\Projects\SimuladorCredito\SimuladorCredito\obj\Debug\SimuladorCredito.exe
+c:\users\sistemas\documents\visual studio 2015\Projects\SimuladorCredito\SimuladorCredito\obj\Debug\SimuladorCredito.pdb
+c:\users\sistemas\documents\visual studio 2015\Projects\SimuladorCredito\SimuladorCredito\obj\Debug\SimuladorCredito.csprojResolveAssemblyReference.cache
